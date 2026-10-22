@@ -30,7 +30,7 @@ Os testes foram conduzidos com **20.000 elementos inteiros aleatórios** (no int
 
 ![Gráfico do Tempo em Função do Corte](grafico_corte.png)
 
-### Representação Visual da Curva (ASCII)
+
 
 
 
